@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Vacancy Of Bed in H and QC">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Vacancy_Of_Bed_in_H_and_QC"/>
+        <property name="java-output-path" value="/Vacancy Of Bed in H and QC/build/classes"/>
+    </wb-module>
+</project-modules>
